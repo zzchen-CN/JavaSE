@@ -1,3 +1,5 @@
+package array1d;
+
 public class ArrayAlgo_3 {
     public static void main(String[] args){
         //需求：给定一个递增有序数字组，去除其中重复元素

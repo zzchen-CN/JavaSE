@@ -1,3 +1,4 @@
+package array1d;
 
 //数组遍历
 public class Array1D_2 {

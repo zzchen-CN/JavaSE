@@ -1,3 +1,5 @@
+package array1d;
+
 import java.util.Random;
 public class ArrayAlgo_2_1 {
     public static void main(String[] args){

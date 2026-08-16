@@ -1,3 +1,5 @@
+package array1d;
+
 import java.util.Scanner;
 public class ArrayAlgo_4 {
     public static void main(String[] args){

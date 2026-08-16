@@ -1,4 +1,4 @@
-//数组算法题
+package array1d;//数组算法题
 import java.util.Scanner;
 
 

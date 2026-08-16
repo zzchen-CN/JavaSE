@@ -1,3 +1,5 @@
+package array1d;
+
 public class Array1D_1 {
     public static void main(String[] args){
         int AgeArr1[] = {18,19,20};

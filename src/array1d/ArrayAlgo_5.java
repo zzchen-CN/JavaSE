@@ -1,3 +1,5 @@
+package array1d;
+
 public class ArrayAlgo_5 {
     public static void main(String[] args){
         /*需求：给你两个有序的数组arr1和arr2

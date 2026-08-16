@@ -1,3 +1,5 @@
+package array1d;
+
 import java.util.Random;
 
 
