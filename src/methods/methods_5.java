@@ -1,7 +1,7 @@
 package methods;
 
 public class methods_5 {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         //给定两个长方形，判断哪个长方形的面积更大？
 
         double len1 = 10.1;

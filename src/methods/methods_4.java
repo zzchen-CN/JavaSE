@@ -1,7 +1,7 @@
 package methods;
 
 public class methods_4 {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         
         //定义一个方法来打印9*9乘法表
         printMulTable();

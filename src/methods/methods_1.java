@@ -2,7 +2,7 @@ package methods;
 
 //方法：程序中的独立功能，也是最小的执行单元
 public class methods_1 {
-    static void main(String[] args) {
+    public static void main(String[] args) {
 
         //练习：定义一个方法，求两个数的和
 

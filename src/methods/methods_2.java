@@ -3,7 +3,7 @@ package methods;
 import java.util.Random;
 
 public class methods_2 {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         //先获取10个0-100之间的随机数并存入到数组当中，要求保证数据是唯一的
         //先定义动态数组
         int arr[] = new int[10];

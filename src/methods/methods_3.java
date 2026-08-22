@@ -1,7 +1,7 @@
 package methods;
 
 public class methods_3 {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         //定义一个方法遍历数组
         //遍历格式如下
         //[1, 2, 3, 4, 5]
